@@ -6,6 +6,7 @@
 ###### Giving up is not an option
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
@@ -29,4 +30,3 @@
 
 
 
-Refresher on markdown languages.
